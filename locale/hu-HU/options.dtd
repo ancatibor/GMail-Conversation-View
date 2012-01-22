@@ -5,11 +5,11 @@
 
 
 -->
-<!ENTITY window.title "Gmail Conversation View Options">
+<!ENTITY window.title "Gmail Conversation megjelenítési opciók">
 <!ENTITY title.message_display "Üzenet megjelenítése">
-<!ENTITY title.quoting "Quoting">
-<!ENTITY option.hide_longer_than "Hide quoted text higher than">
+<!ENTITY title.quoting "Idézet">
+<!ENTITY option.hide_longer_than "Az ennél nagyobb idézett szöveg elrejtése">
 <!ENTITY option.lines "sor">
 <!ENTITY title.advanced "Haladó">
 <!ENTITY title.advanced_display "Beszélgetés megjelenítése">
-<!ENTITY option.no_friendly_date "Use &quot;normal&quot; dates, just like the message list">
+<!ENTITY option.no_friendly_date "Használja az üzenetlistához hasonló &quot;normal&quot; dátumot">
